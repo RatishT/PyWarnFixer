@@ -16,3 +16,4 @@ By creating this issue, I state the following:
 5. I agree that my responses, views, or other input can be quoted anonymously in research outputs.
 6. I agree that the project's name and data can be used anonymously in research outputs.
 7. I give permission for the de-identified pull request data that I provide to be archived in a 4TU.ResearchData repository so it can be used for future research and learning.
+8. I give consent to the researchers being able to contact me regarding the research, and I am aware that I can withdraw from being able to getting contacted at any moment.
